@@ -15,6 +15,8 @@ Programming documentation anyone can contribute to.
 
 6. Don't be a dickhead
 
+7. Use your own images
+
 **FAILURE TO LISTEN TO THESE RULES WILL RESULT IN A BAN FROM EDITING THE 
 DOCUMENTATION.**
 
